@@ -1,2 +1,7 @@
-# MediSync-mobile
-MediSync is an all-in-one hospital management system with an AI chatbot for consultations and scheduling. This is the frontend for mobile application.
+## TEAM MEMBERS:
+
+**Member 1:**  
+**NAME:** BENJAMIN E. RIVERA  
+**COURSE & YEAR:** BSIT-4  
+
+<Short Description about yourself (5 sentences)>
