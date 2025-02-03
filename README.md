@@ -4,4 +4,4 @@
 **NAME:** BENJAMIN E. RIVERA  
 **COURSE & YEAR:** BSIT-3
 
-I am your average kind of guy. Likes to play computer games with friends. I believe in personal growth and always strive to improve myself in small ways every day. Also listening and singig to the music when alone is kinda what everyone does. Lastly hoping for a brighter future for myself.
+I’m your average kind of guy. I like to play computer games with friends. I believe in personal growth and always strive to improve myself in small ways every day. Also, listening to and singing music when alone is something that everyone does. Lastly, I’m hoping for a brighter future for myself.
