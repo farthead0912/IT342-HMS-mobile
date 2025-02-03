@@ -1,6 +1,6 @@
 ## TEAM MEMBERS:
 
-**Member 1:**  
+**Member 3:**  
 **NAME:** BENJAMIN E. RIVERA  
 **COURSE & YEAR:** BSIT-3
 
